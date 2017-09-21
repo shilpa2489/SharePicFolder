@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f19181</color>
+    <color name="colorPrimaryDark">#1f2021</color>
+    <color name="textColorPrimary">#111213</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#f19181</color>
+    <color name="colorAccent">#2b2727</color>
+
+    <color name="bg_login">#26ae90</color>
+    <color name="bg_register">#2e3237</color>
+    <color name="bg_main">#428bca</color>
+    <color name="white">#ffffff</color>
+    <color name="input_login">#222222</color>
+    <color name="input_login_hint">#999999</color>
+    <color name="input_register">#888888</color>
+    <color name="input_register_bg">#3b4148</color>
+    <color name="input_register_hint">#5e6266</color>
+    <color name="btn_login">#26ae90</color>
+    <color name="btn_login_bg">#eceef1</color>
+    <color name="lbl_name">#333333</color>
+    <color name="btn_logut_bg">#ff6861</color>
+
+
+    <color name="dialog_background">#ece8f0</color>
+
+
+
+
+
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="menu_bg">#101F2D</color>
+    <color name="light_gray">#AA808080</color>
+    <color name="gray">#dddddd</color>
+    <color name="tab_bg">#142029</color>
+    <color name="bg_light_blue">#EBF5FF</color>
+    <color name="light_black">#CC000000</color>
+    <color name="light_black_AA">#AA000000</color>
+    <color name="light_black_">#33000000</color>
+    <color name="light_white_">#33FFFFFF</color>
+    <color name="dialog_bg">#f0f0f0</color>
+
+    <drawable name="light_black_">#33000000</drawable>
+
+
+
+
+    <color name="grey_300">#E0E0E0</color>
+    <color name="color_white">#fefefe</color>
+
+    <color name="screen_background">#ece8f0</color>
+</resources>

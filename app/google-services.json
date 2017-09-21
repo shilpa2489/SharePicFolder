@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "763031448988",
+    "firebase_url": "https://pick-n-roll.firebaseio.com",
+    "project_id": "pick-n-roll",
+    "storage_bucket": "pick-n-roll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763031448988:android:f7baa308330bbfde",
+        "android_client_info": {
+          "package_name": "picnroll.shilpa_cispl.com.picnroll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763031448988-tbc7c0h1al92lfs1tc42mf1071ot1a0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "picnroll.shilpa_cispl.com.picnroll",
+            "certificate_hash": "45a170d2b85567064fe2fd6eeb101220c11cd848"
+          }
+        },
+        {
+          "client_id": "763031448988-76hcsrd52lfuahr7ljcg4v4nlbudnt30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "picnroll.shilpa_cispl.com.picnroll",
+            "certificate_hash": "20752f0eac2ca90d6167843a41ca4eae46b49b0a"
+          }
+        },
+        {
+          "client_id": "763031448988-gqa09q2akqtrpfl0k5i2j6vu15l0ps4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDloBlS5E7cAx9nBh65I_-pXpz7eQKRUBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763031448988-dnfjoju7uh9bsh0bh1uhgla9phfm0i0q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "cispl.PickAndRollc2"
+              }
+            },
+            {
+              "client_id": "763031448988-gqa09q2akqtrpfl0k5i2j6vu15l0ps4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
